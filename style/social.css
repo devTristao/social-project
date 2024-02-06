@@ -19,6 +19,7 @@ img{
 a{
     display: block;
     background-color: darkred;
+    margin: -10px;
     padding: 20px;
     text-align: center;
     text-decoration: none;
