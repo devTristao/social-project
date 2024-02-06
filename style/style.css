@@ -38,6 +38,7 @@ section#telefone {
 }
 
 iframe#tela{
+    margin: auto;
     position: relative;
     top: 80px;
     left: 22px;
@@ -47,7 +48,6 @@ iframe#tela{
 }
 
 section#redes-sociais{
-    padding: 10px;
     text-align: right;
 }
 
